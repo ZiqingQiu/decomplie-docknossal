@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Controls.aspx.cs" Inherits="Student" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="ControlCompare.aspx.cs" Inherits="ControlCompare" %>
 
 <!DOCTYPE html>
 
@@ -7,7 +7,7 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">      
+    <form id="form1" runat="server">
         <div>
             <h1>Below is for decompile test only</h1>
             <h3>HTMLInputText v.s. TextBox</h3>
